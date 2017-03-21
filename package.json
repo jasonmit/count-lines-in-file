@@ -1,5 +1,5 @@
 {
-  "name": "count-lines-in-file",
+  "name": "@jasonmit/count-lines-in-file",
   "description": "Counts the number of lines in a file.",
   "main": "./src/countLinesInFile.js",
   "scripts": {
@@ -10,7 +10,7 @@
     "url": "https://github.com/gajus/count-lines-in-file"
   },
   "engines": {
-    "node": "^5"
+    "node": "^5.0.0"
   },
   "keywords": [
     "wc",
